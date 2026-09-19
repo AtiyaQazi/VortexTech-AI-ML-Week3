@@ -2,7 +2,7 @@
 
 ## Regression and Clustering on Real Data
 
-This project was completed as part of the VortexTech AI & ML Internship — Week 3.
+This project was completed as part of the VortexTech AI & ML Internship-Week 3.
 
 The project demonstrates both supervised and unsupervised machine learning techniques using real-world datasets.
 

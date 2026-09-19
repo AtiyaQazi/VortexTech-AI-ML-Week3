@@ -129,8 +129,8 @@ vortextech-aiml-week3/
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/AtiyaQazi/VortexTech-AI-ML-Week3>
-cd vortextech-aiml-week3
+git clone https://github.com/AtiyaQazi/VortexTech-AI-ML-Week3.git
+cd VortexTech-AI-ML-Week3
 ```
 
 ### 2. Create and activate a virtual environment

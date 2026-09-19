@@ -1,4 +1,4 @@
-# VortexTech AI & ML Internship — Week 3
+# VortexTech AI & ML Internship-Week 3
 
 ## Regression and Clustering on Real Data
 

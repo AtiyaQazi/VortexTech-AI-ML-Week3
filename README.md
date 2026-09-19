@@ -306,26 +306,8 @@ notebooks/VortexTech_Week3_Regression_Clustering.ipynb
 
 Run the notebook cells in order from beginning to end.
 
----
-
-# Internship Submission
-
-This repository contains the completed **VortexTech AI & ML Internship — Week 3** project.
-
-The project demonstrates a complete machine learning workflow covering:
-
-**Data Cleaning → Preprocessing → Regression → Model Evaluation → K-Means Clustering → Elbow Method → Visualization → Cluster Interpretation**
-
-**GitHub Repository:**
-
-```text
-https://github.com/AtiyaQazi/VortexTech-AI-ML-Week3
-```
-
----
+--- 
 
 ## Author
 
-**Atiya Qazi**
-
-**AI & ML Internship Track — VortexTech**
+**Attia Qaamar-un-nisa**
